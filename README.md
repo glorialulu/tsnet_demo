@@ -2,6 +2,8 @@
 
 This repository contains a demonstration of the TSNet package for transient simulation in water distribution networks. The provided Jupyter notebooks guide you through the process of setting up and running transient simulations using various network models.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/glorialulu/tsnet_demo/HEAD)
+
 ## Getting Started
 
 ### Prerequisites
