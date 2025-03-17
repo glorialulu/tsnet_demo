@@ -6,7 +6,7 @@ This repository contains a demonstration of the TSNet package for transient simu
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.7
 - Jupyter Notebook
 - TSNet package
 - Matplotlib
@@ -21,7 +21,7 @@ This repository contains a demonstration of the TSNet package for transient simu
 
 2. Install the required packages:
     ```sh
-    pip install tsnet matplotlib jupyter
+    pip install -r requirements.txt
     ```
 
 ### Running the Notebooks
