@@ -1,0 +1,12 @@
+[project]
+name = "tsnet-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "jupyterlab>=3.6.8",
+    "matplotlib>=3.5.3",
+    "tsnet>=0.3.1",
+    "wntr==0.2.3",
+]
