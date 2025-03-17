@@ -1,0 +1,7 @@
+name: python-3.7
+dependencies:
+  - python=3.7
+  - jupyterlab==3.6.8
+  - matplotlib==3.5.3
+  - tsnet==0.3.1
+  - wntr==0.2.3
