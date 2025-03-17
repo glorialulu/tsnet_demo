@@ -1,4 +1,4 @@
-name: python-3.7
+name: tsnet_demo
 dependencies:
   - python=3.7
   - matplotlib=3.5.3
