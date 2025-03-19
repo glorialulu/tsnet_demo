@@ -37,15 +37,15 @@ This repository contains a demonstration of the TSNet package for transient simu
 
 ## Contents
 
-- `1_TNet1_workshop_script_getting_started.ipynb`: Getting started with TSNet.
-- `2_TNet2_workshop_burst.ipynb`: Simulating a burst event.
-- `3_TNet2_workshop_pump.ipynb`: Simulating a pump shutoff.
-- `4_TNet3_workshop_burst_w_leak.ipynb`: Simulating a burst with a background leak.
-- `5_TNet3_workshop_script_friction_models.ipynb`: Demonstrating different friction models.
-- `6_TNet3_workshop_script_surge_tanks.ipynb`: Simulating with and without surge tanks.
-- `7_TNet3_workshop_script_time_step.ipynb`: Selecting the appropriate time step.
-- `8_TNet3_workshop_script_events_comparison.ipynb`: Comparing different transient events.
-- `9_TNet3_workshop_script_advanced.ipynb`: Advanced simulation techniques.
+- `1_TNet1_getting_started.ipynb`: Getting started with TSNet.
+- `2_TNet2_pump_shutoff.ipynb`: Simulating a pump shutoff.
+- `3_TNet3_burst_leak.ipynb`: Simulating a burst with a background leak.
+- `4_TNet3_time_step.ipynb`: Selecting the appropriate time step.
+- `5_TNet3_results.ipynb`: Importing an existing result object
+- `6_TNet3_surge_tanks.ipynb`: Simulating with and without surge tanks.
+- `7_TNet3_friction_models.ipynb`: Demonstrating different friction models.
+
+
 
 ### Network Files
 
