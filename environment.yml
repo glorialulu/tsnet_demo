@@ -8,4 +8,4 @@ dependencies:
   - pip
   - pip:
     - tsnet==0.3.1
-    - wntr==0.2.3
+    - wntr==1.0.0
